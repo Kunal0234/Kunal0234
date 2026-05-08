@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Frontend Projects.<br>🌱 I’m currently learning Backend Development.<br>💬 Ask me about React!<br>📫 How to reach me at kunalkumarjisu@gmail.com<br>⚡ Fun fact : I Play Chess
+👯 I’m looking to collaborate on Frontend Projects.<br>🌱🌱 Currently exploring Backend Development & Open Source..<br>💬 Ask me about React!<br>📫 How to reach me at kunalkumarjisu@gmail.com<br>⚡ Fun fact : I Play Chess
 
 
 # 💻 Tech Stack:
