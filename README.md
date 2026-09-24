@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7c3aed&height=180&section=header" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7c3aed&height=180&section=header" width="100%"/> -->
 
 # ✨ Kunal Kumar ✨
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Gen+AI+%26+Full+Stack+Developer+%F0%9F%9A%80;Building+AI-Powered+Applications+%F0%9F%A4%96;RAG+Systems+%26+LLM+Agents+%E2%9A%A1;Always+Learning%2C+Always+Shipping+%F0%9F%92%BB&font=Fira+Code&center=true&width=600&height=45&color=00D4FF&vCenter=true&size=22&pause=1500"/>
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding">
 
 <br/>
 
