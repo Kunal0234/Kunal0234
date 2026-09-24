@@ -1,12 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7c3aed&height=220&section=header&text=Kunal%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Gen%20AI%20%26%20Full%20Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7c3aed&height=180&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+AI-Powered+Applications+%F0%9F%A4%96;RAG+Systems+%26+LLM+Agents+%E2%9A%A1;Full+Stack+Web+%7C+React+%2B+Python+%F0%9F%9A%80;Always+Learning%2C+Always+Shipping+%F0%9F%92%BB&font=Fira%20Code&center=true&width=600&height=45&color=00D4FF&vCenter=true&size=22&pause=1500"/>
+# ✨ Kunal Kumar ✨
+
+<img src="https://readme-typing-svg.demolab.com/?lines=Gen+AI+%26+Full+Stack+Developer+%F0%9F%9A%80;Building+AI-Powered+Applications+%F0%9F%A4%96;RAG+Systems+%26+LLM+Agents+%E2%9A%A1;Always+Learning%2C+Always+Shipping+%F0%9F%92%BB&font=Fira+Code&center=true&width=600&height=45&color=00D4FF&vCenter=true&size=22&pause=1500"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=KunalKumar&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Kunal0234&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -87,31 +89,29 @@ Kunal.say_hi()
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=KunalKumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=e0e0ff&icon_color=7c3aed" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalKumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=e0e0ff" width="42%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalKumar&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kunal0234&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=e0e0ff&icon_color=7c3aed" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal0234&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00d4ff&text_color=e0e0ff" width="42%"/>
 </div>
-
----
-
-## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=KunalKumar&theme=tokyonight&no-bg=true&no-frame=true&column=7"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal0234&theme=tokyonight&hide_border=true&background=0D1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff" width="60%"/>
 </div>
-
-
 
 ---
 
-## 📈 Contribution Activity
+## 💭 Random Dev Wisdom
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalKumar&theme=tokyo-night&bg_color=0D1117&color=00d4ff&line=7c3aed&point=e0e0ff&hide_border=true"/>
+
+<img src="https://readme-jokes.vercel.app/api" width="70%"/>
+
+*(refreshes with a new dev joke every time someone visits your profile)*
+
 </div>
 
 ---
+
+
 
 ## 🎓 Currently Leveling Up
 
@@ -139,8 +139,6 @@ Kunal.say_hi()
 
 > **"Code today, disrupt tomorrow — every problem has an AI solution waiting to be discovered."**
 > — Kunal Kumar
-
-<img src="https://github.com/KunalKumar/KunalKumar/blob/output/github-contribution-grid-snake.svg"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:00d4ff&height=100&section=footer"/>
 
