@@ -107,7 +107,7 @@ Kunal.say_hi()
 
 <img src="https://readme-jokes.vercel.app/api" width="70%"/>
 
-*(refreshes with a new dev joke every time someone visits your profile)*
+
 
 </div>
 
