@@ -10,7 +10,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kunal0234&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
